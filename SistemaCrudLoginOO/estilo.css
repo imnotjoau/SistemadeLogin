@@ -1,0 +1,22 @@
+
+main{
+    width: 600px;
+    margin: auto;
+    text-align: center;
+}
+
+header{
+    font-size: 30px;
+    color: rgb(0, 117, 163);
+    margin: 20px;
+}
+
+section > div{
+    padding: 5px;
+    font-size: 20px;
+}
+
+section > div > a{
+    text-decoration: none;
+    color: rgb(3, 123, 160);
+}
